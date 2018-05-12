@@ -1,4 +1,8 @@
 _repo: Le-petit-vieux-des-Batignolles-Bonheur-passe-richesse-La-soutane-de-Nessus-Une-disparition-Ma__47042
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47042-h/images/cover.jpg
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47042#Le-petit-vieux-des-Batignolles-Bonheur-passe-richesse-La-soutane-de-Nessus-Une-disparition-Ma_
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2014-10-04'
 gutenberg_type: Text
