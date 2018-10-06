@@ -26,6 +26,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Le petit vieux des Batignolles\r\nBonheur passe richesse; La soutane de Nessus;\
   \ Une disparition; Maudite maison; Casta vixit."
 url: http://www.gutenberg.org/ebooks/47042
